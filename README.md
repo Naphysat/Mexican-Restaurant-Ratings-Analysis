@@ -18,9 +18,11 @@ Relationships were created among these datasets using primary and foreign keys f
 POWER BI DESKTOP: having done the above, i then closed and apply, this took me to the Power BI Desktop where the following simple DAX - Data Analysis Expression were performed:
 
 Distinct count of customers
-2.Distinct count of cuisines
+
+Distinct count of cuisines
 
 Distinct count of restaurants
+
 REPORTS
 
 I used CARD to show:
@@ -30,15 +32,18 @@ Distinct count of restaurants
 Average overall rating
 Average Food rating
 Average service rating
+
 I used BAR CHART to show:
 
 Overall ratings of each restaurants
 Top 10 most preferred cuisines by customers
 Least preferred cuisines by customers
+
 I used COLUMN CHART to show:
 
 Food and Service rating of each restaurants ( stacked column chart)
 Occupation of the customers
+
 I used PIE CHART to show city where customers reside and DONUT Chart for Marital status of customers.
 
 ROW CARD to show each restaurant and price category.
