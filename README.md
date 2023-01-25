@@ -13,6 +13,8 @@ The file upon downloading is a CSV file which i loaded into Power BI Query Edito
 
 	Restaurants csv: The table contains cuisines offered by each restaurant.
 
+Note: The file with 'jpg' is an image of my dashboard for this project.
+
 Relationships were created among these datasets using primary and foreign keys for proper analysis.
 
 POWER BI DESKTOP: having done the above, i then closed and apply, this took me to the Power BI Desktop where the following simple DAX - Data Analysis Expression were performed:
