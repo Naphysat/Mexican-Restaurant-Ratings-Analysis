@@ -1,4 +1,7 @@
 
+
+You can interact with the dashboard here: https://app.powerbi.com/MobileRedirect.html?ctid=0d208db3-39f6-4f17-b3f4-89883d314820&reportPage=ReportSection&Context=share-report&bookmarkGuid=5e5079c6-f283-4f4b-b4aa-ef9a4d96a3cd&action=OpenReport&reportObjectId=cb7c89bd-c045-43c9-8b7c-f7726f743936&groupObjectId=6d28cb0d-ffee-4bab-a727-e5c1c937d6b7&pbi_source=mobile_ios
+
 Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
 
 The file upon downloading is a CSV file which i loaded into Power BI Query Editor where few manipulations were done. The file contained 5 datasets:
@@ -13,7 +16,7 @@ The file upon downloading is a CSV file which i loaded into Power BI Query Edito
 
 	Restaurants csv: The table contains cuisines offered by each restaurant.
 
-Note: The file with 'jpg' is an image of my dashboard for this project.
+
 
 Relationships were created among these datasets using primary and foreign keys for proper analysis.
 
